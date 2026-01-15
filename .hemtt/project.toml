@@ -1,6 +1,6 @@
-name = "ArmA-3-Mod-Template"
-author = "Lupus590"
-prefix = "template"
+name = "Combat Equipment Evolved TCP Compat"
+author = "RoutOfWolves"
+prefix = "ceerebalance"
 mainprefix = "z"
 
 [version]
@@ -15,7 +15,7 @@ include = [
 ]
 
 [hemtt.release]
-folder = "ArmA-3-Mod-Template"
+folder = "Combat Equipment Evolved TCP Compat"
 
 [hemtt.launch.default]
 presets = [
