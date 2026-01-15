@@ -1,3 +1,2 @@
-# Core Addon
-
-Integrates versioning information using the CBA Versioning System.
+# Data Addon
+All config override data.
