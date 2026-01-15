@@ -1,5 +1,5 @@
 class I_G_Soldier_base_F;
-class Rogue_CEUniformbase:I_G_Soldier_base_F
+class Rogue_CEUniform_base:I_G_Soldier_base_F
 {
 	armor				= 2;
 	armorStructural		= 0.4;
